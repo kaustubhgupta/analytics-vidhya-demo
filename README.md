@@ -10,3 +10,5 @@ This repo contains the code demonstrated in the Analytics Vidhya article about P
 - ml_demo_code.py (The main web app for prediction) 
 
 ## Article is live now - [The Easiest Way To Deploy Machine Learning Models: PyWebIO](https://www.analyticsvidhya.com/blog/2021/04/the-easiest-way-to-deploy-machine-learning-models-pywebio/)
+
+## Deployed App link: [Salary Predictor](https://ml-pywebio.herokuapp.com/)
